@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filmoteca</string>
+
+    <string name="e_conected">CONEXION ERRONEA</string>
+    <string name="e_ghibli_list">ERROR EN LISTA DE FILMGHIBLI </string>
+    <string name="e_title">TITULO ERRONEO</string>
+    <string name="e_description">DESCRIPCION ERRONEA</string>
+    <string name="e_year">FECHA ERONEA</string>
+    <string name="e_note_empty">LA PUNTUACION ESTA VACIA</string>
+    <string name="e_note_range">LA PUNTUACION ESTA FUERA DE RANGO (0-5)</string>
+    <string name="e_url_image">Url DE LA IMAGEN ERRONEA</string>
+    <string name="e_email_pass">ERROR, CORREO ELECTRONICO Y CONTRASENYA VACIOS</string>
+
+    <string name="create_successful">Creacion satisfactoria de la pelicula</string>
+    <string name="delete_successful">Eliminacion de pelicula satisfactoria</string>
+
+    <string name="text_example">Ejemplo</string>
+    <string name="text_title">Titulo: </string>
+    <string name="text_description">Descripcion: </string>
+    <string name="text_year">Fecha: </string>
+    <string name="text_note">Puntuacion: </string>
+    <string name="text_urlimage">Url-Imagen: </string>
+    <string name="text_email">Correo electronico: </string>
+    <string name="text_password">Contraseña: </string>
+
+    <string name="text_title_hinit">TITULO</string>
+    <string name="text_description_hinit">DESCRIPCION</string>
+    <string name="text_year_hinit">FECHA</string>
+    <string name="text_note_hinit">PUNTUACION</string>
+    <string name="text_urlimage_hinit">URL-IMAGEN</string>
+    <string name="text_email_hinit">CORREO-ELECTRONICO</string>
+    <string name="text_password_hinit">CONTRASEÑA</string>
+
+    <string name="text_web">https://www.abc.es/play/cine/peliculas/</string>
+
+    <string name="button_create">CREAR</string>
+    <string name="button_delete">ELIMINAR</string>
+    <string name="button_login">INICIAR SESION</string>
+
+    <string name="button_mcreate">Crear</string>
+    <string name="button_minspirate">Inspirarse</string>
+</resources>

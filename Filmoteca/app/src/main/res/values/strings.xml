@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Filmoteca</string>
+
+    <string name="e_conected">ERROR CONNECTED</string>
+    <string name="e_ghibli_list">ERROR FILMGHIBLI LIST</string>
+    <string name="e_title">Error Title</string>
+    <string name="e_description">Error Descriprion</string>
+    <string name="e_year">Error Year</string>
+    <string name="e_note_empty">Error Note is empty</string>
+    <string name="e_note_range">Error NOTE OUT RANGE(0-5)</string>
+    <string name="e_url_image">Error UrlImage</string>
+    <string name="e_email_pass">ERROR, EMAIL AND PASSWORD IS EMPTY</string>
+
+    <string name="create_successful">create Film is Successful</string>
+    <string name="delete_successful">Delete Film is Successful</string>
+
+    <string name="text_example">EXAMPLE </string>
+    <string name="text_title">Title: </string>
+    <string name="text_description">Description: </string>
+    <string name="text_year">Year: </string>
+    <string name="text_note">Note: </string>
+    <string name="text_urlimage">Url-Image: </string>
+    <string name="text_email">Email: </string>
+    <string name="text_password">Password: </string>
+
+    <string name="text_title_hinit">TITLE</string>
+    <string name="text_description_hinit">DESCRIPTION</string>
+    <string name="text_year_hinit">YEAR</string>
+    <string name="text_note_hinit">NOTE</string>
+    <string name="text_urlimage_hinit">URL-IMAGE</string>
+    <string name="text_email_hinit">EMAIL</string>
+    <string name="text_password_hinit">PASSWORD</string>
+
+    <string name="text_web">https://www.abc.es/play/cine/peliculas/</string>
+
+    <string name="button_create">CREATE</string>
+    <string name="button_delete">DELETE</string>
+    <string name="button_login">LOGIN</string>
+
+    <string name="button_mcreate">Create</string>
+    <string name="button_minspirate">Inspirate</string>
+</resources>
